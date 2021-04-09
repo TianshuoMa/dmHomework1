@@ -1,0 +1,1 @@
+Missing Values:{'Unnamed: 0': 0, 'country': 5, 'description': 0, 'designation': 45735, 'points': 0, 'price': 13695, 'province': 5, 'region_1': 25060, 'region_2': 89977, 'variety': 0, 'winery': 0}

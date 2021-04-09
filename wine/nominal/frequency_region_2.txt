@@ -1,0 +1,2 @@
+region_2:
+{'Central Coast': 13057, 'Sonoma': 11258, 'Columbia Valley': 9157, 'Napa': 8801, 'California Other': 3516, 'Willamette Valley': 3181, 'Mendocino/Lake Counties': 2389, 'Sierra Foothills': 1660, 'Napa-Sonoma': 1645, 'Finger Lakes': 1510, 'Central Valley': 1115, 'Long Island': 771, 'Southern Oregon': 662, 'Oregon Other': 661, 'North Coast': 632, 'Washington Other': 593, 'South Coast': 198, 'New York Other': 147}
