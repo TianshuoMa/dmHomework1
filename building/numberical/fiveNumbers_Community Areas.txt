@@ -1,0 +1,2 @@
+Community Areas:
+{'Min': 1.0, 'Q1': 24.0, 'Median': 36.0, 'Q3': 58.0, 'Max': 77.0}
